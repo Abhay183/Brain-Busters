@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="header">
       <Link to="/" className="title">
-      Brain Busters
+      Brain Boosters
       </Link>
       <hr className="divider" />
     </div>
